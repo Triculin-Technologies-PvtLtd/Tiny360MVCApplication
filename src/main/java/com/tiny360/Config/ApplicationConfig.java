@@ -13,7 +13,6 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 @Configuration
 
 @EnableWebMvc
-
 @ComponentScan(basePackages = "com.tiny360.Controllers")
 public class ApplicationConfig extends WebMvcConfigurerAdapter{
     
