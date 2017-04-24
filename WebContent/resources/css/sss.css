@@ -1,0 +1,149 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*.modal-content th{ margin:0 0 0 85px; font-size:16px;color:#FFF; float:left; width:757px; height:47px; line-height:47px;}*/
+
+.main_table{ position: relative;width: 64em;height: 39em;margin: -4% 0 0 -11%;background-color: #dbdbdc;}
+
+.main_table_one{ position: absolute;background-color: #06F;height: 46px;border-radius: 0px;width: 775px;margin: 2% 0 0 7%;}
+
+.main_table_one table{ background-color: transparent;width: 640px !important;}
+
+.main_table_one .one{ margin: -3% 0% 0% 37%;float: left;color: #fff;font-size: 19px;text-align: -webkit-center; }
+
+.main_table_one .two{ margin: -18px 0 0 13%;float: left;color: #fff;font-size: 19px;text-align: -webkit-center;}
+
+.main_table_one .three{ margin: -18px 0 0 14%;float: left;color: #fff;text-align: -webkit-center;font-size: 19px;}
+
+.main_table_one .four{ margin: -2.8% -14% 0 0%;float: right;font-size: 19px;color: #fff;}
+
+.main_table_one .main{ margin: 1.3% 82% -1% 0;font-size: 19px;color: #fff;text-align: right;float: right;}
+
+.main_table_one .border_one1{ border-left: 1px solid #9a9090;/* width: 12%; */height: 67vh;position: absolute;top: 100%;left:26%;}
+
+.main_table_one .border_one2{ border-left: 1px solid #9a9090;/* width: 12%; */height:67vh;position: absolute;top:100%;left: 46%;}
+
+.main_table_one .border_one3{ border-left: 1px solid #9a9090;/* width: 12%; */height:67vh;position: absolute;top:100%;left:66%;}
+
+.main_table_one .border_one4{ border-left: 1px solid #9a9090;/* width: 12%; */height:67vh;position: absolute;top:100%;left: 85%;}
+
+.main_table_one .border_one5{ border-left: 1px solid #9a9090;/* width: 12%; */height:67vh;position: absolute;top:100%;right: 99.9%;}
+
+.main_table_one .border_one6{ border-left: 1px solid #9a9090;/* width: 12%; */height:67vh;position: absolute;top:100%;left: 99.7%;}
+
+.main_table_one .border_one7{ border-bottom: 1px solid #9a9090;width:43em;/* height: 71vh; */position: absolute;top: 75vh;left: 0vh;}
+
+.main_table_one td{ font-family: 'Lato', sans-serif;font-size: 18px;text-align: -webkit-left;margin: 2% 0% 0 3%;color: #000;font-weight: 300;float: left;}
+
+.main_table_one .border_one8{ border-bottom: 1px solid #afaaaa;width: 11.2em;height: 1px;position: absolute;top: 16vh;left: 0%;}
+
+.cross{ position: relative;left: 8.1vh; }
+
+.cross_1{ position: relative;left: 27.3vh;}
+
+.cross_2{ position: relative;left: 46.2vh;}
+
+.cross_3{position: relative;left: 61vh;top: 0vh;}
+
+.tick{ position:relative; top:2vh; left:8.2vh;}
+
+.tick_1{ position:relative; top:1.6vh; left:26.7vh;}
+
+.tick_2{ position:relative; top:2vh; left:44vh;}
+
+.cross_4{ position:relative; top:1.5vh; left:57.7vh;}
+
+.main_table_one .module_1{ position: relative;top: 2.5vh;left: 0vh;}
+
+.main_table_one .border_one9{ border-bottom: 1px solid #afaaaa;width: 11.2em;height: 1px; position:absolute; top:24.5vh; left:0%;}
+
+.tick_3{ position:relative; top:4vh; left:7.1vh;}
+
+.tick_4{ position:relative; top:3.8vh; left:25.5vh;}
+
+.tick_5{ position:relative; top:4vh; left:42.7vh;}
+
+.cross_5{ position:relative; top:3.8vh; left:56.5vh;}
+
+.main_table_one .module_2{ position: relative;top: 5vh;left: 0vh;}
+
+.main_table_one .border_two0{ border-bottom: 1px solid #afaaaa;width: 11.2em;height: 1px; position:absolute; top:33vh; left:0%;}
+
+.tick_6{ position:relative; top:6.3vh; left:2.9vh;}
+
+.tick_7{ position:relative; top:6.3vh; left:21.1vh;}
+
+.tick_8{ position:relative; top:6.3vh; left:38.2vh;}
+
+.cross_6{ position:relative; top:6vh; left:52vh;}
+
+.main_table_one .module_3{ position: relative;top: 7.3vh;left:-2vh;}
+
+.main_table_one .border_two1{ border-bottom: 1px solid #afaaaa;width: 11.2em;height: 1px; position:absolute; top:42vh; left:0%;}
+
+.cross_7{ position:relative; top:10vh; left:2.3vh;}
+
+.tick_9{ position:relative; top:10.2vh; left:21vh;}
+
+.tick_10{ position:relative; top:10.3vh; left:38.5vh;}
+
+.cross_8{ position:relative; top:10vh; left:52.3vh;}
+
+.main_table_one .module_4{ position: relative;top: 11vh;left:-2vh;}
+
+.main_table_one .border_two2{ border-bottom: 1px solid #afaaaa;width: 11.2em;height: 1px; position:absolute; top:51vh; left:0%;}
+
+.cross_9{ position:relative; top:12.3vh; left:18vh;}
+
+.tick_11{ position:relative; top:12.2vh; left:37vh;}
+
+.tick_12{ position:relative; top:12.3vh; left:53.9vh;}
+
+.cross_10{ position:relative; top:12.2vh; left:68vh;}
+
+.main_table_one .module_5{ position: relative;top: 13vh;left:4vh;}
+
+.main_table_one .border_two3{ border-bottom: 1px solid #afaaaa;width: 11.2em;height: 1px; position:absolute; top:59vh; left:0%;}
+
+.cross_11{ position:relative; top:14vh; left:25.6vh;}
+
+.cross_12{ position:relative; top:14vh; left:45vh;}
+
+.tick_13{ position:relative; top:14.2vh; left:63.2vh;}
+
+.cross_13{ position:relative; top:14vh; left:77.1vh;}
+
+.main_table_one .module_6{ position: relative;top: 15.1vh;left:4vh;}
+
+.main_table_one .border_two4{ border-bottom: 1px solid #afaaaa;width: 11.2em;height: 1px; position:absolute; top:66.3vh; left:0%;}
+
+.cross_14{ position:relative; top:16vh; left:26.3vh;}
+
+.cross_15{ position:relative; top:16vh; left:46vh;}
+
+.tick_14{ position:relative; top:16.2vh; left:63.8vh;}
+
+.cross_16{ position:relative; top:16vh; left:78vh;}
+
+.main_table_one .module_7{ position: relative;top: 17vh;left:4vh;}
+
+.main_table_one h3{ font-family: 'Lato', sans-serif;font-size: 19px;font-weight: 300;color: #000;margin: 20vh 0 0 77%;text-align: justify;width: 100%;}
+
+.main_table_one del{ font-family:'Lato', sans-serif; font-size:16px; font-weight:300; color:#000; margin:18vh 0 0 18vh; text-align:justify; display: -webkit-box;}
+
+.main_table_one .rupee_1{ width: 7%;margin: -3px 0 0 15vh;display: -webkit-inline-box;}
+
+.main_table_one h4{ font-family:'Lato', sans-serif; font-size:16px; font-weight:300; display:inline-block; margin: -19vh 0 0 1vh; color:#000;}
+
+.main_table_one .delete_one{ font-family:'Lato', sans-serif; font-size:16px; font-weight:300; color:#000; margin:18vh 0 0 13vh; text-align:justify; display: -webkit-box;}
+
+.main_table_one .rupee_2{ width: 9%;margin: -3px 0 0 10vh;display: -webkit-inline-box;}
+
+.main_table_one h5{ font-family:'Lato', sans-serif; font-size:16px; font-weight:300; display:inline-block; margin: -19vh 0 0 1vh; color:#000;}
+
+.main_table_one .delete_two{ font-family:'Lato', sans-serif; font-size:16px; font-weight:300; color:#000;margin: -9vh 0 0 86vh; text-align:justify; display: -webkit-box;}
+
+.main_table_one .rupee_3{ width: 2%;margin: -8px 0 0 83.3vh;display: -webkit-inline-box;}
+
+.main_table_one h2{ font-family:'Lato', sans-serif; font-size:16px; font-weight:300; display:inline-block; margin: -19vh 0 0 1vh; color:#000;}
+

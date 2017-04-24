@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+.orders_one{ background-color:#fff;}
+
+p{ font-family: 'Lato', sans-serif; font-size:16px; color:#666; text-align:justify; margin:0 0 0 0; font-weight:300;display: -webkit-inline-box;}
+
+h1 a{ font-family: 'Lato', sans-serif;font-size: 25px;color: #666;text-align: justify;margin: 0 0 0 0;font-weight: 600;display: -webkit-inline-box; }
+
+h2{ border:1px solid #ccc; width:50px; height:25px; margin:0 0 0 0; }
+
+span select{ font-family: 'Lato', sans-serif;font-size: 16px;color: #666;text-align: justify;margin: 0 0 0 0;font-weight: 300;display:inline-block;width: 80%;height: 35px; border: 1px solid #ccc;border-radius: 3px;}
+
+.pad_z input[type="number"]{ font-family: 'Lato', sans-serif;font-size: 16px;text-align: justify;margin: 0 0 0 0;font-weight: 300;display: inline-block;width:2.5em;height: 35px; border: 1px solid #ccc;border-radius: 3px;}
+
+.pad_z th{ width:12%;}
+
+.pad_z .one{ width:5%; }
+
+.pad_z .two{ width:9%;}
+
+.pad_z .three{ width:22%;}
+
+.pad_four{ width:10%;}
+
+.cost_one{ font-family:'Lato', sans-serif; font-size:16px; color:#666; text-align:justify;margin:0 0 0 0; font-weight:300; display:inline-block; cursor:pointer;}
+
+.create{ }
+
+.pad_z{ padding:11px 0 0 0;}
+
+.reset{ margin: 0 4px 0 0;}
+
+.dropdown-menu{ width:100%;}
+
+.open{ overflow-x: scroll !important;}
+
+#cost_two{ font-size: 16px;font-weight: 300;text-align: justify;margin: 0 0 0 0;padding: 13px 0 0 0;font-family:'Lato', sans-serif;}
+
+.multiselect-selected-text{ overflow-x: scroll !important;}
+
+
+
+
+
+
+					

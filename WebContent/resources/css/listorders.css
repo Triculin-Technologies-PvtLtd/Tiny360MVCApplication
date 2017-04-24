@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+.listorders{ background-color:#fff; padding:15vh 0 0 0;}
+
+table{ width: 100%; max-width: 100%;margin-bottom: 20px;}
+
+.page-navigation a {
+  margin: 0 2px;
+  display: inline-block;
+  padding: 3px 10px;
+  color: #ffffff;
+  background-color: #70b7ec;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.page-navigation a[data-selected] { background-color: #3d9be0; }
+
+.page-navigation{float: right;margin: 0px 12vh 0 0;}
+
+.pageTitle a{ font-family: 'Lato', sans-serif; font-size:26px; color:#666; font-weight:400; text-align:justify;}
+
+#search{ font-family:'Lato', sans-serif; font-size:16px; font-weight:300; text-align:justify; color:#666; padding:0 0 0 0; margin:0 0 0 0; position: absolute;top: 17.5vh;left: 25%;}
+
+#search label{ font-family:'Lato', sans-serif; font-size:16px; color:#999; margin:0 0 0 0; position: relative;top:1.4em;right: 24%;}
+
+#show{ display: inline-block;position: absolute;left: 76%;top: 8em;}
+
+.show_1{ font-family: 'Lato', sans-serif;font-size: 16px;color: #999;margin: 0 0 0 0;position: relative;top: 1.5em;display: inline-block;right: 48%;}
+
+#show select{ width: 90%;height: 28px;}
+
+.rte{ padding:10px 30px; background-color: #d7e0e8;}
+
+.modal-body p{ font-family:'Lato', sans-serif; font-size:18px; font-weight:500; text-align:justify; color:#999; margin:0 0 0 0; padding:11px 0 9px 0; border-bottom:1px solid #ccc;}
+
+.modal-body > table > thead > tr{ height:43px; line-height:43px;}
+
+.modal-body > table > thead > tr > th{ font-family:'Lato', sans-serif; font-size:17px; text-align:center; margin:0 auto; color: #000; font-weight:600; border-bottom:1px solid #ccc;}
+
+.modal-body > table > tbody > tr > td{ font-family:'Lato', sans-serif; font-size:16px; text-align:center; margin:0 auto; color: #000; font-weight:400; border-bottom:1px solid #ccc;}
+
+.modal-body > table > tbody > tr{ height:43px; line-height:43px;}
+
+.modal-body > table > tbody > tr > td > .totalcost{ font-family:'Lato', sans-serif; font-size:16px; font-weight:400; color:#999; text-align:center; margin:0 auto;}
+
+.box .tableWrap { margin: 40px -30px;}
+

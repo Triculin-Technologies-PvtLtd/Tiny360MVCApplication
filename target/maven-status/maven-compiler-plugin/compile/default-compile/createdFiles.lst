@@ -1,0 +1,5 @@
+com\tiny360\Config\ApplicationConfig.class
+com\tiny360\Registration\BusinessDetailsForm.class
+com\tiny360\Controllers\LoginController.class
+com\tiny360\Config\WebAppInitializer.class
+com\tiny360\Registration\CaptchaBean.class
