@@ -27,5 +27,6 @@ public class WebAppInitializer implements WebApplicationInitializer {
  		botDetect.setLoadOnStartup(1);
  		botDetect.addMapping("/botdetectcaptcha");
  	    } 
+	    
 	}
 
